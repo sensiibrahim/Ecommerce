@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sea{
+    border: 2px solid ;
+    border-color: #052E16;
+}
